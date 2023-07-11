@@ -1,0 +1,56 @@
+.ohimage {
+  display: inline-block;
+  width: 200px;
+  border-radius: 10px;
+}
+
+header {
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+}
+
+span {
+  font-size: 35px;
+}
+
+.costp {
+  text-align: center;
+  font-weight: 800;
+  font-size: 25px;
+}
+
+footer {
+  background-color: lightgray;
+  color: gray;
+  font-size: 10px;
+  text-align: center;
+  line-height: 50px;
+}
+
+button {
+  margin-bottom: 50px;
+  width: 50px;
+}
+
+.buttonwrapper {
+  text-align: center;
+}
+
+a {
+  margin-left: 50px;
+  background-color: gold;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+.ph {
+  position: fixed;
+  top: 0;
+}
+
+.div {
+  text-align: center;
+}
+
+/*# sourceMappingURL=stuff.css.map */
